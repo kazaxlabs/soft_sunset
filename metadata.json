@@ -1,0 +1,8 @@
+{
+  "name": "Design Framework Template",
+  "description": "A minimalist design framework showcasing dynamic page transitions, sticky scrolling with soft rounded corners, responsive color tokens, and custom state configurators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
